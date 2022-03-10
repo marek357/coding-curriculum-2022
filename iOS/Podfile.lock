@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.5.0)
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - ExytePopupView (1.0.7)
+  - OpenCV (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.5)
+  - Charts
+  - ExytePopupView
+  - OpenCV
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Charts
+    - ExytePopupView
+    - OpenCV
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  ExytePopupView: 2a0d2744f356589aad8a4d138f690231b210eba0
+  OpenCV: 681e0451c1e54c5930a8922277f817ed5d5ab459
+
+PODFILE CHECKSUM: c6ddab3e12177b53746545f9e797f16c95f2c617
+
+COCOAPODS: 1.11.2

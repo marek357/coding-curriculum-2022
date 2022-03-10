@@ -1,0 +1,11 @@
+fastapi==0.68.0
+uvicorn==0.12.2
+fastapi-cloudauth
+pydantic~=1.9.0
+SQLAlchemy~=1.4.31
+firebase_admin
+psycopg2
+alembic
+pytest
+pydantic[dotenv]
+pytest-order

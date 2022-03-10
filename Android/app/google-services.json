@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "688098816299",
+    "project_id": "hmsensyne",
+    "storage_bucket": "hmsensyne.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688098816299:android:7afebbe7a4e41e5c13156e",
+        "android_client_info": {
+          "package_name": "com.sensyne.rppg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688098816299-4jqg90j15mnk4dbscnmoss7hhiu65lgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVtn2mexfyEws_2liE1iGSEnXqx_N6hQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688098816299-4jqg90j15mnk4dbscnmoss7hhiu65lgn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "688098816299-70f6jq2jettil6bmcrca10vrh52rqlv2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sensynehealth.hmsensyne-ios-mvp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688098816299:android:22849fab53f5a43013156e",
+        "android_client_info": {
+          "package_name": "com.ucl.hmssensyne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688098816299-4jqg90j15mnk4dbscnmoss7hhiu65lgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVtn2mexfyEws_2liE1iGSEnXqx_N6hQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688098816299-4jqg90j15mnk4dbscnmoss7hhiu65lgn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "688098816299-70f6jq2jettil6bmcrca10vrh52rqlv2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sensynehealth.hmsensyne-ios-mvp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

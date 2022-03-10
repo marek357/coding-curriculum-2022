@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/Users/marekmasiak/AndroidStudioProjects/HMSSensyne/opencv/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/marekmasiak/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/marekmasiak/AndroidStudioProjects/HMSSensyne/opencv/.cxx/Debug/5h5f3l3y/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/marekmasiak/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/marekmasiak/AndroidStudioProjects/HMSSensyne/opencv/.cxx/Debug/5h5f3l3y/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared-Debug-x86": {
+      "artifactName": "opencv_jni_shared",
+      "buildCommandComponents": [
+        "/Users/marekmasiak/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/marekmasiak/AndroidStudioProjects/HMSSensyne/opencv/.cxx/Debug/5h5f3l3y/x86",
+        "opencv_jni_shared"
+      ],
+      "abi": "x86",
+      "output": "/Users/marekmasiak/AndroidStudioProjects/HMSSensyne/opencv/.cxx/Debug/5h5f3l3y/x86/libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}

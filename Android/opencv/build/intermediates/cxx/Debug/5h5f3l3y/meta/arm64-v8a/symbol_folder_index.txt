@@ -1,0 +1,1 @@
+/Users/marekmasiak/AndroidStudioProjects/HMSSensyne/opencv/build/intermediates/cxx/Debug/5h5f3l3y/obj/arm64-v8a
